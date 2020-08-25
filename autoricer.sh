@@ -10,7 +10,6 @@ PACMANPKGS=(
             xdg-user-dirs
             libxft
             imagemagick
-            git
             python-pip
             picom
             feh
