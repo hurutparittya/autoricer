@@ -52,7 +52,7 @@ fi
 setxkbmap hu &
 
 # Display Resolution
-xrandr --output Virtual-1 --mode 1920x1080
+xrandr --output default --mode 1600x900
 
 # Set Wallpaper
 ~/.fehbg &
